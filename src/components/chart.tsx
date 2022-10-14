@@ -13,7 +13,7 @@ const options: Type_Chart_Options = {
     },
     series: [
       {
-        data: [1, 2, 1, 4, 3, 6]
+        data: [1, 2, 1, 4, 3, 6, 5, 3, 23, 4, 4]
       }
     ]
 };
